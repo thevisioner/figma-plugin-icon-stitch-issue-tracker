@@ -2,11 +2,11 @@
 
 This is the issue tracker for the Figma plugin Icon Stitch. If you have any problems or feature requests, please open an issue here.
 
-For more information on how to use this plugin, please visit the plugin's page on the Figma Community site.
+For more information on how to use this plugin, please visit the [plugin's page on the Figma Community site](https://www.figma.com/community/search?resource_type=plugins&sort_by=relevancy&query=icon+stytch&editor_type=figma&price=all&creators=all).
 
 ## Issues
 
-Please open an issue if you have any problems or feature requests. You can also use the [Discussions]() tab to ask questions or share ideas.
+Please open an issue if you have any problems or feature requests. You can also use the [Discussions](https://github.com/thevisioner/figma-plugin-icon-stitch-issue-tracker/discussions) tab to ask questions or share ideas.
 
 Please check the [existing issues](https://github.com/thevisioner/figma-plugin-icon-stitch-issue-tracker/issues) before opening a new one. If you find an issue that is similar to yours, please add a comment to that issue instead of opening a new one.
 
