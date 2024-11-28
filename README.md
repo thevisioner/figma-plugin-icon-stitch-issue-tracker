@@ -1,6 +1,8 @@
 # Figma plugin Icon Stitch Issue Tracker
 
-This is the issue tracker for the Figma plugin Icon Stitch. If you have any problems or feature requests, please open an issue here.
+![Cover Image](./assets/Cover.png)
+
+This is the issue tracker for the Figma plugin **Icon Stitch**. If you have any problems or feature requests, please open an issue here.
 
 For more information on how to use this plugin, please visit the [plugin's page on the Figma Community site](https://www.figma.com/community/search?resource_type=plugins&sort_by=relevancy&query=icon+stytch&editor_type=figma&price=all&creators=all).
 
@@ -52,11 +54,11 @@ If you have any questions or need help with the plugin, please contact [plugin a
 
 This project is created and maintained by [Raimonds Sarkanbardis](https://www.visioner.dev) / [@thevisioner](https://www.figma.com/@thevisioner).
 
-Thank you for using the Figma plugin Icon Stitch!
+Thank you for using the Figma plugin **Icon Stitch**!
 
 ## Terms of Service
 
-By using the Icon Stitch plugin, you agree to the following terms:
+By using the **Icon Stitch** plugin, you agree to the following terms:
 
 - The plugin is provided "as is" without warranty of any kind.
 
